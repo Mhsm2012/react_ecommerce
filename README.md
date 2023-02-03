@@ -26,8 +26,43 @@ amazon-clone
 2- remove test files and what related to them also remove logo file of react 
 3- in App.css remove all content to start your own css of your app styles sheets
 ==============================================================================
-make a commit to your git hub project 
+make a commit to your git hub project and sync changes 
 ======================================
+will get message that your project comipled with 1 error skip this and then move forward to the next steps
+=================================================
+                    # css added some *
+1- * in css mean that what will do will be ingeneral for all components of your application 
+2- make changes in your css file
+==================================================
+clear your app.js
+we will remove some of that related codes related to files we did removed from app folder
+1- remove import logo from './logo.svg'; as it related to logo file that we did removed 
+2- remove header and also p of that header 
+===============================
+changes to index.js file 
+like change background color to certain color 
+===============================
+run your app after those changes as see that you will have a blanck page doesnt contain any thing will color of back ground
+that you choose to added to index.css file
+=========================================
+added some dependencies to asset functionality of your app 
+npm install @material-ui/core
+npm install @material-ui/icons
+npm install firebase
+npm install react-currency 
+npm install react-dom 
+npm install react-router-dom
+=============================
+components 
+start to create components
+Header.js
+every compoanent have a className that we can access it from css file 
+also have a css file that we can added styles to elements of that components
+=============================
+then make Login.js page enable user to login to site 
+===========================
+
+
 
 
 
