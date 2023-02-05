@@ -9,6 +9,11 @@
     z-index: -1;
     margin-bottom: -150px;
 }
-.home-row{
-    
+.home__row{
+   display:flex;
+   z-index: 1;
+   margin-right: 5px;
+   margin-left: 5px;
+   
+  
 }
